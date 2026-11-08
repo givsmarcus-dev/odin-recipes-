@@ -1,7 +1,9 @@
 # odin-recipes- 
-This is practice project of all the html knowledge I have aquired. It's my attempt at a live website. 
+This is a practice project of all the html knowledge I have acquired. It's my attempt at a live website. 
 
 ## Skills demonstrated
-- (Html Boilerplates)
-- (linking pages togehther)
-- (relative links, images with alt text, lists, headings)
+- HTML boilerplate
+- Linking pages together
+- Relative links
+- Images with alt text
+- Lists and headings
